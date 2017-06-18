@@ -1,0 +1,18 @@
+{
+  "name": "kitchen-sink",
+  "version": "0.1.0",
+  "description": "return a link to an image of a kitchen sink",
+  "main": "index.js",
+  "repository": "https://github.com/kaliumxyz/kitchen-sink",
+  "author": "kalium",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.19.1"
+  },
+  "keywords": [
+    "kitchen-sink"
+  ],
+  "scripts": {
+    "test": "ava"
+  }
+}
