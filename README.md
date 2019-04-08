@@ -1,4 +1,4 @@
-# kitchen-sink [![Build Status](https://travis-ci.org/kaliumxyz/kitchen-sink.svg?branch=master)](https://travis-ci.org/kaliumxyz/kitchen-sink)
+# 🚰 kitchen-sink [![Build Status](https://travis-ci.org/kaliumxyz/kitchen-sink.svg?branch=master)](https://travis-ci.org/kaliumxyz/kitchen-sink) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/kitchen-sink.svg)
 > return a link to an image of a kitchen sink
 
 ## install
